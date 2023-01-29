@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ethers": "^5.7.2"
+  },
+  "name": "sendnativeanderc20tokenethersjs",
+  "description": "send ETH(nativebalance) and transfer ERC20 token",
+  "version": "1.0.0",
+  "main": "sendNative.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeWithJoe2020/sendNativeandERC20TokenEthersJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeWithJoe2020/sendNativeandERC20TokenEthersJs/issues"
+  },
+  "homepage": "https://github.com/CodeWithJoe2020/sendNativeandERC20TokenEthersJs#readme"
+}
